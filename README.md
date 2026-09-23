@@ -87,4 +87,4 @@ jupyter notebook DataAnalyst_ECommerce_Analytics.ipynb
 4. **Predictive Performance**: The Random Forest Classifier achieved **85.3% Accuracy** and an **ROC-AUC of 0.912**, providing a reliable predictive engine for automated early-warning churn alerts.
 
 ---
-*Author: Data Analyst Professional*
+
