@@ -24,7 +24,8 @@ In accordance with standard project submission criteria, all required files are 
 ---
 
 ## 📊 Dataset Information
-- **Dataset File**: `data/ecommerce_churn_data.csv`
+- **GitHub Repository**: [https://github.com/JambigaNandini/ecommerce-customer-churn-analytics](https://github.com/JambigaNandini/ecommerce-customer-churn-analytics)
+- **Dataset File**: `data/ecommerce_churn_data.csv` (Available directly in repository)
 - **Link/Source**: Synthesized realistic e-commerce customer behavioral dataset based on industry standard e-commerce retention schemas.
 - **Records**: 1,200 unique customer records
 - **Features**: 13 numeric and categorical variables:
